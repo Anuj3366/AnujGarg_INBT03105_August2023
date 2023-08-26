@@ -4,3 +4,6 @@
 [submodule "E-Commerce"]
 	path = E-Commerce
 	url = https://github.com/Anuj3366/E-Commerce-Website
+[submodule "Joke Generator"]
+	path = Joke Generator
+	url = https://github.com/Anuj3366/Joke-Generator
