@@ -1,6 +1,6 @@
-# iNeubytes
+# AnujGarg_INBT03105_August2023
 
-Welcome to the iNeubytes project, a comprehensive collection of tasks and major projects!
+Welcome to the AnujGarg_INBT03105_August2023 project, a comprehensive collection of tasks and major projects!
 
 ## Table of Contents
   - [Tasks](#tasks)
